@@ -1,0 +1,13 @@
+.DS_Store
+**/node_modules/
+**/dist/
+**/dist-electron/
+**/release/
+.env
+.env.*
+*.pem
+*.p12
+*.key
+*.sqlite
+*.sqlite-*
+*.log

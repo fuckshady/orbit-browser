@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "checks": [
+    "Renderer y preload aislado cargados; inicio visible",
+    "Controles nativos dentro de la barra y botones centrados, sin desbordamiento al expandir o contraer",
+    "Video 4K 3840×2160, encuadre completo dentro del área de Inicio",
+    "Video de cascada decodificado y reproduciéndose en Inicio",
+    "Fondo SATELLITE 4K reproducible, seleccionable junto a FLOW y sin recortes",
+    "Navegación real, título real y ausencia de Node/IPC en web remota",
+    "Atrás y adelante independientes",
+    "Historial y marcadores en SQLite con título final",
+    "Nueva pestaña, cambio y destrucción de WebContents al cerrar",
+    "Pestañas independientes por espacio",
+    "Validación de URL e IPC",
+    "Descarga real completada y contenido verificado",
+    "Cookies de sesión real",
+    "Navegación HTTPS real a example.com",
+    "Fondos de imagen llenan Inicio sin bandas negras en ventanas de diferentes proporciones",
+    "Wallhaven real: búsqueda 4K, miniaturas, descarga original, protocolo local y selección persistida",
+    "Pantallas de personalización y configuración AI renderizadas",
+    "Cristal adaptativo: color real del wallpaper, tinte manual, transparencia ajustable, vibrancy macOS, validación y regreso a Clásico"
+  ]
+}
